@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-# Script connects to my server using private key
-chmod 0700 ~/.ssh/school
-ssh -i ~/.ssh/school ubuntu@34.234.193.247
